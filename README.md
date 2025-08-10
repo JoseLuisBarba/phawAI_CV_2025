@@ -1,10 +1,6 @@
 # PhawAI_image_classification_and_convolutional_neural_networks_assignment
 
 
-# PhawAI_image_classification_and_convolutional_neural_networks_assignment
-
-
-
 
 ### Acceder a notebooks
 
