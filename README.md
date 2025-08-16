@@ -1,6 +1,4 @@
-# PhawAI_image_classification_and_convolutional_neural_networks_assignment
-
-
+# PhawAI 2025: Image Classification and Convolutional Neural Networks Assignment
 
 ### Acceder a notebooks
 
